@@ -2,5 +2,8 @@
 
 ## 技术栈
 
-React
-Flask
+[Flask](https://flask.palletsprojects.com/)
+
+## 操作系统
+
+MacBook Pro (13-inch, M1, 2020)
